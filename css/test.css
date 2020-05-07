@@ -1,0 +1,21 @@
+body{
+	background-color: #9c27b0;
+}
+h1{
+	font-size: 30px;
+	color: salmon;
+}
+.b{
+	font-size: 55px;
+}
+.a{
+	color: hotpink;
+	text-transform: uppercase;
+}
+span{
+	color: navy;
+	font-size: 45px;
+}
+h1 span{
+	font-size: 75px;
+}
